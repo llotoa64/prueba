@@ -1,1 +1,3 @@
 SELECT * FROM empleado;
+THRILLER
+SELECT * FROM ventas;
